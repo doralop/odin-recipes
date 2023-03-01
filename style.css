@@ -1,0 +1,16 @@
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: rgb(3, 105, 2521);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+h2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(0, 180, 81);
+}
+p {
+    text-decoration: underline;
+}
